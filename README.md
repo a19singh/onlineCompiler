@@ -23,6 +23,6 @@ git clone <URL>
 ### Access
 
 - Open the browser and hit
-```sh
+```html
 localhost/cgi-bin/execut.py
 ```
